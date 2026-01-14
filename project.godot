@@ -13,3 +13,11 @@ config_version=5
 config/name="lighter"
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://icon.svg"
+
+[debug]
+
+settings/stdout/print_fps=true
+
+[dotnet]
+
+project/assembly_name="lighter"
